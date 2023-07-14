@@ -1,0 +1,14 @@
+#formulario {
+    display: grid;
+    place-content: center;
+}
+
+#titulo {
+    display: grid;
+    place-content: center;
+}
+
+.lista {
+    display: grid;
+    place-content: center;
+}
